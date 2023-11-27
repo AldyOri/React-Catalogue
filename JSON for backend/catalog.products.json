@@ -1,0 +1,225 @@
+[{
+  "_id": {
+    "$oid": "6554643314a1d558bac41f8e"
+  },
+  "name": "Monitor",
+  "description": "High-performance monitor for various tasks.",
+  "price": 6000000,
+  "quantity": 10,
+  "category": {
+    "name": "Electronics",
+    "description": "Electronic devices and accessories."
+  },
+  "manufacturer": {
+    "name": "ABC Electronics",
+    "description": "Leading manufacturer of electronic devices."
+  },
+  "image": "https://placehold.co/300",
+  "createdAt": {
+    "$date": "2023-11-15T06:24:51.961Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-15T06:24:51.961Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655464db14a1d558bac41f93"
+  },
+  "name": "Smartphone",
+  "description": "Feature-rich smartphone with a sleek design.",
+  "price": 6000000,
+  "quantity": 50,
+  "category": {
+    "name": "Electronics",
+    "description": "Electronic devices and accessories."
+  },
+  "manufacturer": {
+    "name": "ABC Electronics",
+    "description": "Leading manufacturer of electronic devices"
+  },
+  "image": "https://placehold.co/300",
+  "createdAt": {
+    "$date": "2023-11-15T06:27:39.888Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-15T06:27:39.888Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6554652014a1d558bac41f96"
+  },
+  "name": "Laptop",
+  "description": "High-performance laptop for various tasks.",
+  "price": 8000000,
+  "quantity": 20,
+  "category": {
+    "name": "Electronics",
+    "description": "Electronic devices and accessories."
+  },
+  "manufacturer": {
+    "name": "ABC Electronics",
+    "description": "Leading manufacturer of electronic devices."
+  },
+  "image": "https://placehold.co/300",
+  "createdAt": {
+    "$date": "2023-11-15T06:28:48.437Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-15T06:28:48.437Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6554669114a1d558bac41f98"
+  },
+  "name": "Laptop XYZ",
+  "description": "Powerful laptop with high-performance features.",
+  "price": 12000000,
+  "quantity": 50,
+  "category": {
+    "name": "Electronics",
+    "description": "Devices and gadgets"
+  },
+  "manufacturer": {
+    "name": "Tech Innovators",
+    "description": "Leading technology company"
+  },
+  "image": "https://placehold.co/300",
+  "createdAt": {
+    "$date": "2023-11-15T06:34:57.914Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-15T06:34:57.914Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6554669114a1d558bac41f99"
+  },
+  "name": "Smartphone ABC",
+  "description": "Latest model with advanced camera and AI features.",
+  "price": 5000000,
+  "quantity": 100,
+  "category": {
+    "name": "Electronics",
+    "description": "Devices and gadgets"
+  },
+  "manufacturer": {
+    "name": "Mobile Tech",
+    "description": "Innovative smartphone manufacturer"
+  },
+  "image": "https://placehold.co/300",
+  "createdAt": {
+    "$date": "2023-11-15T06:34:57.914Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-15T06:34:57.914Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6554669114a1d558bac41f9a"
+  },
+  "name": "Running Shoes",
+  "description": "Comfortable shoes designed for running and sports.",
+  "price": 50000,
+  "quantity": 200,
+  "category": {
+    "name": "Footwear",
+    "description": "Shoes for various activities"
+  },
+  "manufacturer": {
+    "name": "Sports Gear Co.",
+    "description": "Specializing in sports equipment"
+  },
+  "image": "https://placehold.co/300",
+  "createdAt": {
+    "$date": "2023-11-15T06:34:57.914Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-15T06:34:57.914Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655466bd14a1d558bac41f9e"
+  },
+  "name": "Ultra HD Smart TV",
+  "description": "Large screen TV with 4K resolution and smart features.",
+  "price": 10000000,
+  "quantity": 30,
+  "category": {
+    "name": "Electronics",
+    "description": "Devices and gadgets"
+  },
+  "manufacturer": {
+    "name": "Tech Innovators",
+    "description": "Leading technology company"
+  },
+  "image": "https://placehold.co/300",
+  "createdAt": {
+    "$date": "2023-11-15T06:35:41.432Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-15T06:35:41.432Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655466bd14a1d558bac41f9f"
+  },
+  "name": "Wireless Headphones",
+  "description": "High-quality wireless headphones with noise cancellation.",
+  "price": 1000000,
+  "quantity": 50,
+  "category": {
+    "name": "Electronics",
+    "description": "Devices and gadgets"
+  },
+  "manufacturer": {
+    "name": "AudioTech",
+    "description": "Audio equipment specialists"
+  },
+  "image": "https://placehold.co/300",
+  "createdAt": {
+    "$date": "2023-11-15T06:35:41.432Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-15T06:35:41.432Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655466bd14a1d558bac41fa0"
+  },
+  "name": "Gaming Console X",
+  "description": "Latest gaming console with powerful graphics and extensive game library.",
+  "price": 8000000,
+  "quantity": 25,
+  "category": {
+    "name": "Gaming",
+    "description": "Gaming consoles and accessories"
+  },
+  "manufacturer": {
+    "name": "GameTech",
+    "description": "Dedicated to gaming technology"
+  },
+  "image": "https://placehold.co/300",
+  "createdAt": {
+    "$date": "2023-11-15T06:35:41.432Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-15T06:35:41.432Z"
+  },
+  "__v": 0
+}]
