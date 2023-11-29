@@ -11,7 +11,7 @@ const App = () => {
     <div>
       <nav className="bg-slate-600">
         <div className="container p-2 mx-px w-40">
-          <Link to="/"><h2 className="text-white text-2xl font-bold">React App</h2></Link>
+          <Link to="/"><h2 className="text-white text-2xl font-bold">Ini katalog</h2></Link>
         </div>
       </nav>
 

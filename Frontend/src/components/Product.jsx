@@ -37,7 +37,7 @@ const Product = ({product, getProducts}) => {
             <div className="px-4 pt-2 pb-4">
                 <h2 className="text font-semibold">{product.name}</h2>
                 <div className="text-sm">Quantity: {product.quantity}</div>
-                <div className="text-sm">Price: {product.price}</div>
+                <div className="text-sm">Price: {product.price.toLocaleString("id-ID", {style: "currency", currency: "IDR"})}</div>
             
                 <div className="grid grid-cols-2 gap-2">
                     <div className="mt-2 flex gap-4">

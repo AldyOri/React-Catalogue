@@ -21,7 +21,7 @@ const HomePage = () => {
             const response = await axios.get("http://localhost:3001/api/products")
             setProducts(response.data)
             setIsLoading(false)
-            //console.log(response.data)
+            console.log(response.data)
         } catch (error) {
             console.log(error)
         }
