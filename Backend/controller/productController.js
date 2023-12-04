@@ -48,7 +48,7 @@ const updateProduct = asyncHandler(async (req, res) => {
             throw new Error(`cannot find any product with ID ${id}`)
         }
         const updatedProduct = await Product.findById(id)
-        res.status(200).json(updateProduct)
+        res.status(200).json(updatedProduct)
     } catch (error) {
         res.status(200)
         throw new Error(error.message)
