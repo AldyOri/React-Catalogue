@@ -70,7 +70,6 @@ const deleteProduct = asyncHandler(async (req, res) => {
         throw new Error(error.message)
     }
 })
-
 module.exports = {
     getProducts,
     getProduct,

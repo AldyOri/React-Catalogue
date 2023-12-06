@@ -31,9 +31,7 @@ const productSchema = mongoose.Schema(
             type: String,
             required: false,
             default: "https://placehold.co/300"
-        },
-        
-        
+        },               
     },
     {
         timestamps: true
